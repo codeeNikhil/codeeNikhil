@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeeNikhil
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning php
+- 🌱 Currently i am exploring php
 
 
 <!---
